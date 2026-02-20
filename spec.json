@@ -1,0 +1,14 @@
+{
+  "project": {
+    "name": "emailer",
+    "repo_url": "https://github.com/tanishapritha/emailer"
+  },
+  "structure": "monorepo",
+  "apps": [
+    "api",
+    "web"
+  ],
+  "database": [],
+  "endpoints": [],
+  "features": []
+}
